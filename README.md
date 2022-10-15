@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning and refreshing all about user-space development for Linux. My next plans include figuring out cryptography, network protocols and blockchain. 
 - 💞️ I’m looking to collaborate with sw engineering enthusiasts who like creating amazing apps or just have fun learning something new.
 - 📫 How to reach me:
-  * ✉️ [My gmail address](yurii.ruban97@gmail.com)
+  * ✉️ [My Gmail address](yurii.ruban97@gmail.com)
   * 👨‍💼 [My Linkedin acoount](https://www.linkedin.com/in/yurii-ruban-016649164)
 
 <!---
