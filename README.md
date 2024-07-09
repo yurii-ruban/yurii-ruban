@@ -1,8 +1,8 @@
 ## Hi there, I am Yurii
-- 👋 After graduating my university in Kyiv in the distant 2019, I started my software engineering career.
-- 🛠️ I've been working as a C++ developer for about 6 years and the more I work with C++, the less I know about it 😆. Also, I have small experience with Python and consider learning Javascript.
-- 🏭 Areas: browser development, development for automotive insustry.
-- 💞️ I’m looking to collaborate with sw engineering enthusiasts who like creating amazing apps or just have fun learning something new.
+- 👋 After graduating from my university in Kyiv in the distant 2019, I started my software engineering career.
+- 🛠️ I've been working as a C++ developer for about 6 years and the more I work with C++, the less I know about it 😆. Also, I have little experience with Python and I'm considering learning Javascript
+- 🏭 Areas: browser development, development for the automotive industry
+- 🫵 Open to collaborations in the scope of studying or developing interesting projects
 - 📫 How to reach me:
   * ✉️ [My Gmail address](yurii.ruban97@gmail.com)
   * 👨‍💼 [My Linkedin acoount](https://www.linkedin.com/in/yurii-ruban-016649164)
