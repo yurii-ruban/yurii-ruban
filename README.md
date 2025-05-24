@@ -7,6 +7,11 @@
   * ✉️ [My Gmail address](yurii.ruban97@gmail.com)
   * 👨‍💼 [My Linkedin acoount](https://www.linkedin.com/in/yurii-ruban-016649164)
 
+ ## Familiar with the following programming languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)](https://skillicons.dev)
+
+## And some tools I have experience with
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,clion,webpack,vite,cmake,postman)](https://skillicons.dev)
 <!---
 yurii-ruban/yurii-ruban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
