@@ -1,8 +1,8 @@
 ## Hi there, I am Yurii
-- 👋 After graduating from my university in Kyiv in the distant 2019, I started my software engineering career.
-- 🛠️ I've been working as a C++ developer for about 6 years and the more I work with C++, the less I know about it 😆. Also, I have little experience with Python and I'm considering learning Javascript
-- 🏭 Areas: browser development, development for the automotive industry
-- 🫵 Open to collaborations in the scope of studying or developing interesting projects
+I am a passionate Software Engineer with over 6 years of experience delivering innovative solutions across embedded systems (C, C++), Web Browser-based Windows desktop applications, and intuitive user interfaces for the automotive industry.
+Currently, I am advancing my expertise in Front-End engineering, mastering HTML, CSS, and JavaScript, and exploring browser APIs. My goal is to create seamless, high-performance web experiences.
+I’m open to new opportunities in web development or browser-related engineering, where I can combine my diverse technical background with my passion for cutting-edge technologies to drive exceptional results.
+Let’s connect to discuss how I can contribute to your team!
 - 📫 How to reach me:
   * ✉️ [My Gmail address](yurii.ruban97@gmail.com)
   * 👨‍💼 [My Linkedin acoount](https://www.linkedin.com/in/yurii-ruban-016649164)
